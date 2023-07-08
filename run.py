@@ -150,9 +150,9 @@ def get_stock_values(data):
     # for heading, stock_num in zip(headings, data):
     #     new_data[heading] = stock_num
     # return new_data
- 
+
     print(f"Make the following numbers of sandwiches for next market:\n")
-    
+
     return dictionary
     # return {heading: data for heading, data in zip(headings, data)}
 
